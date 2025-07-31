@@ -2,5 +2,5 @@
 Product Developer. Not an actual MC
 
 ## Work Experience
-- Currently working at [Epos Now](https://www.linkedin.com/company/epos-now/)
+- Currently working at [FounderNest](https://www.linkedin.com/company/foundernest/)
 - Worked at Mercadona Tech
