@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>mc-mario.dev/blog/</loc>
+    <loc>https://mc-mario.dev/blog/</loc>
   </url><url>
-    <loc>mc-mario.dev/</loc>
+    <loc>https://mc-mario.dev/</loc>
   </url><url>
-    <loc>mc-mario.dev/series/</loc>
+    <loc>https://mc-mario.dev/series/</loc>
   </url><url>
-    <loc>mc-mario.dev/tags/</loc>
+    <loc>https://mc-mario.dev/tags/</loc>
   </url>
 </urlset>
