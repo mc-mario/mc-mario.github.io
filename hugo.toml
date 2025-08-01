@@ -1,4 +1,4 @@
-baseurl      = "mc-mario.dev"
+baseurl      = "https://mc-mario.dev"
 title        = "Ark"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -33,13 +33,13 @@ theme        = "hello-friend-ng"
 
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
+    title = "MC Mario"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
   [languages.en.params]
-    subtitle  = "A simple theme for Hugo"
+    subtitle  = "Personal website"
 
     [languages.en.params.logo]
       logoText = "echo mc-mario.dev"
